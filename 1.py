@@ -1,5 +1,5 @@
 
-def is_multiple(x, n) : #Check if x is multiple of n
+def is_multiple(x, n) : 
     return (x%n == 0)
 
 def sum_multiple(a, b, n) :
