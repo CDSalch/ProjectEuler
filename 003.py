@@ -1,6 +1,6 @@
 def prime_factors(n):
     if n < 2:
-        return []  # Aucun facteur premier pour n < 2
+        return []  
 
     factors = []
     divisor = 2
